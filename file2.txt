@@ -1,5 +1,0 @@
-This is file 2
-
-To understand the concept if remote push and pull 
-
-adding few components
