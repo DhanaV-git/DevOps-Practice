@@ -1,20 +1,20 @@
 <h1> Hello, My Name is Dhanalakshmi Veeramachaneni !!! </h1>
 <br>
-<p> This is sample webpage for DevOps </p>
+<p> This is sample webpage for DevOps 
 <h1> This is a test for DevOps </h1>
 <br>
 <h2> DevOps test with Tomcat, Jenkins, Git, Maven Completed Successfully </h2>
 <br>
+</p>
 <h1> Integrating Ansible Testing </h1>
 <br>
   <h2> Testing of DevOps with Tomcat, AWS, Jenkins, Git, Ansible, Maven Completed Successfully </h2>
-<br>
 <h3> Integration of Ansible with Jenkins requires the following steps:</h3>
-<p> First, add ssh server, ssh pipeline steps in plugin section</p>
+<p> First, add ssh server, ssh pipeline steps in plugin section
 <br>
-<p> later add ansadmin details to Jenkins server on Ec2. Followed by Testing the connection of Jenkins and Ansible on Jenkins Post Build execution steps</p>
+  later add ansadmin details to Jenkins server on Ec2. Followed by Testing the connection of Jenkins and Ansible on Jenkins Post Build execution steps</p>
 <br>
-<p> Then try to test the configuration. If the test says successful, check the copywarfile.yml in Ansible and make sure all the syntax follows the basic rules.
+Then try to test the configuration. If the test says successful, check the copywarfile.yml in Ansible and make sure all the syntax follows the basic rules.
   <br>
   If needed, change the permissions of playbooks folder. This will help in avoiding permission denied errors in Jenkins Build. Try to build the job now. 
   <br> 95% of time it will run. Try to change as many lines as possible in the Git Code. This might not make any difference, but will help to track the build jobs each time.
